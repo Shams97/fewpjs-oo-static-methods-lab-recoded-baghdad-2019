@@ -2,7 +2,9 @@ class Formatter {
   //add static methods here
   
  static capitalize(str){
-   return str.toUppercase(); }
+   return string.
+   
+ }
  
  static sanitize(str){
     for(let i=0; i<str.length; i++)
